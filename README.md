@@ -1,1 +1,1 @@
-My first readme
+My first readme. Learning Git ain't a joke.
